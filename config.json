@@ -1,6 +1,6 @@
 {
-  "ownerUsername": ["srynot4sale"],
-  "botToken": "5213525362:AAHG9VGupV58vunC9oOcS9zv8ae5K-RL0u4",
+  "ownerUsername": ["seniorvacum"],
+  "botToken": "6082657212:AAGAJR1d-WjFLvCx4oWzL67h5xXRtXlnTrk",
   "mongo_URI": "mongodb+srv://rndtx:dr34mth34t3rA~@cluster0.hit8b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "mess": {
     "findPartner": "⌛ *Tunggu sebentar sedang mencari partner* ⌛",
